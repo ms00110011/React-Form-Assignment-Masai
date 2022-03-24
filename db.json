@@ -1,0 +1,24 @@
+{
+  "Employees": [
+    {
+      "name": "Sam",
+      "age": "27",
+      "address": "Silver County Road",
+      "salary": "2000000",
+      "department": "IT",
+      "gender": "Male",
+      "married": true,
+      "id": 1
+    },
+    {
+      "name": "Joe",
+      "age": "22",
+      "address": "Miami",
+      "salary": "1250000",
+      "department": "Marketing",
+      "gender": "Male",
+      "married": false,
+      "id": 2
+    }
+  ]
+}
